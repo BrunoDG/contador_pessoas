@@ -1,16 +1,8 @@
-# contador_pessoas
+# Contador de Pessoas
 
-A new Flutter project.
+Um projeto simples para aprender a usar os layouts de Flutter e os atos de Stateful e Stateless. Um simples contador de pessoas para Android e iOS feito a partir de um curso da Udemy para aprender a usar Flutter.
+## Sobre o que é?
 
-## Getting Started
+Este projeto é somente um projeto simples para aprender a usar o Flutter. Ideal para iniciantes para entender como funciona a estrutura de colunas e de layouts da aplicação.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feito a partir do curso da Udemy: https://www.udemy.com/course/curso-completo-flutter-app-android-ios 
